@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" widht="400" src="![image](https://github.com/C0deNe0/C0deNe0/assets/122149779/703f099e-698d-4de6-b104-bbf717bd5ef4)
-">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0dene0&label=Profile%20views&color=0e75b6&style=flat" alt="c0dene0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c0dene0" alt="c0dene0" /></a> </p>
