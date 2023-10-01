@@ -8,14 +8,15 @@
         Hello There
       <br>
         I'm Naveen, a Student, enthusiast in tech i little lazy
-        
       </b>
-      <br>
+      <b>
         <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=Make+it+simple+but+I'm+a+really+complicant+person.">
       <br>
       <b>
          ~ naveen hiremath ~
       </b>    </samp>
+        
+
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 <br>
