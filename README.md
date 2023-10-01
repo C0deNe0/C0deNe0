@@ -1,10 +1,29 @@
-<h1 align="center">Hi 👋, I'm Naveen</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- START -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=c0dene0&label=Profile%20views&color=0e75b6&style=flat" alt="c0dene0" /> </p>
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello There
+      <br>
+        I'm Naveen, a Student, enthusiast in tech i little lazy
+        
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=Make+it+simple+but+I'm+a+really+complicant+person.">
+      <br>
+      <b>
+         ~ naveen hiremath ~
+      </b>    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c0dene0" alt="c0dene0" /></a> </p>
-
+<!-- contribution snake -->
+<p align="center">
+    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/1amSimp1e/1amSimp1e/544749532955a2438af7a7934a17731aa0ea1b43/github-contribution-grid-snake.svg" />
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
