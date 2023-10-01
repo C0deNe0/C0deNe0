@@ -7,7 +7,7 @@
       <b>
         Hello There
       <br>
-    I'm Naveen, a Student, enthusiast in tech but a little lazy
+                I'm Naveen, a Student, enthusiast in tech but a little lazy
       </b>
       <b>
  <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=Make+it+simple+but+I'm+a+really+complicant+person.">
