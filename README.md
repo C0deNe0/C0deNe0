@@ -31,7 +31,7 @@
 
 <a href="https://app.daily.dev/0_naveen_0"><img src="https://api.daily.dev/devcards/v2/9fOrzy05ikhdgoaVtxTZ1.png?r=ggr" width="356" alt="Naveen's Dev Card"/></a>
 <p align="left">
-  [![An image of @c0dene0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/c0dene0)](https://holopin.io/@c0dene0)
+[![An image of @c0dene0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/c0dene0)](https://holopin.io/@c0dene0)
 
 </p>
 
