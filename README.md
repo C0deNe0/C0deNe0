@@ -39,7 +39,7 @@
 
 ### 🚀 Tech Stack & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,go,python,git,figma,aseprite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,c,go,git,figma,aseprite" />
 </p>
 
 ### 🔥 Animation & Libraries:
