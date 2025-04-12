@@ -10,7 +10,7 @@
       I'm Naveen, a Student & Tech Enthusiast (but a little lazy 😅)
     </b>
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono&size=16&duration=2000&color=7A95C9&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Golang+Backend+Developer;MERN+Stack+Developer;Tech+Enthusiast;Loves+to+Build+Things+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono&size=16&duration=2000&color=7A95C9&center=true&vCenter=true&width=500&lines=Developer;Golang+Backend+Developer;MERN+Stack+Developer;Tech+Enthusiast;Loves+to+Build+Things+🚀" />
     <br>
     <b>~ Naveen Hiremath ~</b>
   </samp>
